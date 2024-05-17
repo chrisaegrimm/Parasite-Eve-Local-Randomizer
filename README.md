@@ -1,4 +1,4 @@
--- How To Generate Seeds --
+[ How To Generate Seeds ]
 	
 	- Currently only Bizhawk 2.9 is recommended for seed generation. Static seeds are not currently working 100% so if you want to play the same
 	seed with multple people you'll have to give them the "per-seed.lua" file you generate.
