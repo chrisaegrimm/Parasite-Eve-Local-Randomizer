@@ -1,5 +1,6 @@
    [ v0.07 ]
 
+-  Added to GitHub.
 -  Fixed saving to crrntprog.txt using a memory card in Slot 2.
 -  Modified Quicksave QoL to account for both slots appropriately.
 -  Adjusted World Map Story Flag set to allow for an exception coming from Disc 2.
