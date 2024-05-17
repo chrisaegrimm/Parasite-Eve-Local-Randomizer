@@ -1,5 +1,5 @@
-## Parasite Eve Local Randomizer
-### (created by chrisaegrimm, Kaktus021 & skooter0070)
+# Parasite Eve Local Randomizer
+(created by chrisaegrimm, Kaktus021 & skooter0070)
 
 
 [ How To Generate Seeds ]
