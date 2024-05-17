@@ -1,0 +1,269 @@
+
+Sewers
+	Platform: Bench Chest	(SeedSW01) - m9_2
+	Platform: Save Chest 	(SeedSW02) - m79_5
+	Exit: Chest          	(SeedSW03) - medicine2
+	Mole Tunnel: Chest   	(SeedSW04) - sv_suit1
+	Centipede Drop       	(SeedSW05) - medicine4
+	Subway Car: Chest 1  	(SeedSW06) - cm_vest1
+	Subway Car: Chest 2  	(SeedSW07) - defense3
+	Subway Car: Chest 3  	(SeedSW08) - medicine3
+	Bridge Cop           	(SeedSW09) - usp_2
+
+NYPD Station
+	Baker's Office: Baker Permit 1 	(SeedPD01) - storage_key
+	D2 Locker Room: Right Locker   	(SeedPD02) - m96
+	D2 Locker Room: Left Locker    	(SeedPD03) - cr_suit2
+	D2 Meeting Room: Baker Permit 2	(SeedPD04) - cr_evade3
+	D2 Wayne & Torres: Free Gun    	(SeedPD05) - m73_tcard
+	D3 Entrance: Hamaya            	(SeedPD06) - blue_card_key
+	D3 Main Hall: Cop's Ammo       	(SeedPD07) - cm_suit1
+	D3 Main Hall: Nix's Ammo       	(SeedPD08) - fuse_1
+	D3 Save Room: Warner's Ammo    	(SeedPD09) - fuse_3
+	D3 Locker Room: Right Locker   	(SeedPD11) - medicine3
+	D3 locker Room: Cop's Ammo     	(SeedPD12) - fullcure
+	D2/3 Locker Room: Locked locker	(SeedPD13) - revive
+	D3 Wayne & Torres: Torres' Gun 	(SeedPD14) - bullet_cap1
+	D3 Kennel: Cathy's Ammo        	(SeedPD15) - revive
+	D3 Meeting Room: CM Vest2 Chest	(SeedPD16) - type38_tcard
+	D3 Barred Staircase: Cops' Ammo	(SeedPD17) - medicine2
+	Holding Cells: Left Chest      	(SeedPD18) - range1
+	Holding Cells: Right Chest     	(SeedPD19) - m500_2
+	Interigation: Chest            	(SeedPD20) - medicine3
+	Interigation: Table Sparkle    	(SeedPD21) - medicine2
+	Save Office: Desk Chest        	(SeedPD22) - ppks_tcard
+	Save Office: Floor Chest       	(SeedPD23) - bullets6
+	Locker Key Cop                 	(SeedPD24) - p229
+	Medical Office: Daniel Ammo    	(SeedPD25) - medicine2
+	Big Bad Wolf: Chest            	(SeedPD26) - warehouse_key
+	Big Bad Wolf: Drop             	(SeedPD27) - m79_6
+	Big Bad Wolf: Cop              	(SeedPD28) - medicine3
+	Big Bad Wolf, Backroom: Chest  	(SeedPD29) - rocket9
+	Storage: Left Chest            	(SeedPD30) - mp5sd6
+	Storage: Center Chest          	(SeedPD31) - tool
+	Storage: Right Chest           	(SeedPD32) - cm_armor1
+	Kerberos: Drop                 	(SeedPD33) - kv_suit1
+
+China Town
+	Entrance: Left Chest                 	(SeedCT01) - medicine2
+	Entrance; Right Chest                	(SeedCT02) - range4
+	Save Street: South Chest             	(SeedCT03) - range2
+	Save Street: North Chest             	(SeedCT04) - medicine1
+	Antique Shop: Chest                  	(SeedCT05) - mayoke
+	Antique Shop: Shelf                  	(SeedCT06) - range3
+	Sewer Entrance: Chest                	(SeedCT07) - m9_3
+	Sewer Entrance: Maeda                	(SeedCT08) - tool_kit
+	Sewer Maze, A/4: Sparkle             	(SeedCT09) - defense3
+	Sewer Maze, B/1: Chest               	(SeedCT10) - micro_uz
+	Sewer Maze, B/3: Sparkle             	(SeedCT11) - m1911a5
+	Sewer Maze, B/6: Chest               	(SeedCT12) - sp_armor2
+	Sewer Maze, C/2: Chest               	(SeedCT13) - rocket9
+	Sewer Maze, C/6: Sparkle             	(SeedCT14) - pe4
+	Sewer Maze, D/3: Chest               	(SeedCT15) - medicine4
+	Sewer Maze, D/8: Chest               	(SeedCT16) - mini_uz
+	Sewer Maze, D/11: Chest              	(SeedCT17) - medicine4
+	Sewer Maze, E/4: Chest               	(SeedCT18) - green_card_key
+	Sewer Maze, E/10: Sparkle            	(SeedCT19) - medicine2
+	Sewer Maze, F/9: Chest               	(SeedCT20) - p38_tcard
+	Sewer Exit, Catwalk: Chest           	(SeedCT21) - eagle_tcard
+	Pump Station, Exterior: Gator Chest  	(SeedCT22) - ppk
+	Pump Station, Exterior: Catwalk Chest	(SeedCT23) - medicine1
+	Pump Station, Control Room: Chest    	(SeedCT24) - ak_47
+
+Warehouse
+	Outside: Left Chest (Hidden)	(SeedWH01) - g3a3
+	Outside: Right Chest        	(SeedWH02) - medicine3
+	Entrance: Forklift Chest    	(SeedWH03) - sv_vest1
+	Tom & Jerry: Chest          	(SeedWH04) - cr_protector
+	Tom & Jerry: Sparkle        	(SeedWH05) - p228
+	Save Room: Upper North Chest	(SeedWH06) - theater_key
+	Save Room: Lower North Chest	(SeedWH07) - m1911a3
+	Save Room: South Chest      	(SeedWH08) - medicine3
+	Before Descent: NW Chest    	(SeedWH09) - m9
+	Before Descent: NE Chest    	(SeedWH10) - b_jacket2
+	Before Descent: SW Chest    	(SeedWH11) - medicine3
+	Giant Enemy Crab            	(SeedWH12) - cr_armor2
+	Steam Sparkle               	(SeedWH13) - m79_4
+Carnegie Hall
+	F1: Backstage Chest                    	(SeedCH02) - dnabullets15
+	B1: Save Chest                         	(SeedCH03) - psg_1
+	B1: Theater Corpse                     	(SeedCH04) - medicine3
+	B1: Diary                              	(SeedCH05) - sv_armor1
+	B1: Diary Closet                       	(SeedCH06) - rocket9
+	B1: Parrot Closet                      	(SeedCH07) - medicine3
+	B1: Clown Locker                       	(SeedCH08) - elevator_key
+	B1: Burned Pair Locker                 	(SeedCH09) - sv_jacket
+	B1: Prop Room: Chest                   	(SeedCH10) - fa_mas
+	B1: Prop Room: Hidden Chest            	(SeedCH11) - m10b
+	B1: Prop Room: Rat Cabinet             	(SeedCH12) - zoo_key
+	B1: Backstage                          	(SeedCH13) - p226
+	Sewers: Stairway Chest                 	(SeedCH14) - sp_suit2
+	Sewers: Ghost Girl: Left Back Chest    	(SeedCH15) - sv_suit2
+	Sewers: Ghost Girl: Right Chest        	(SeedCH16) - defense4
+	Sewers: Ghost Girl: Left Front Chest   	(SeedCH17) - bullets15
+	Sewers: Hidden Chest Room: Left Chest  	(SeedCH18) - sp_vest1
+	Sewers: Hidden Chest Room: Center Chest	(SeedCH19) - maeda_gun
+	Sewers: Hidden Chest Room: Right Chest 	(SeedCH20) - bullet_cap3
+	Sewers: Hidden Chest Room: Hidden Chest	(SeedCH21) - usp_3
+	Sewers: Gator                          	(SeedCH22) - revive
+
+Hospital
+	Outside: Maeda Mayoke              	(SeedHS01) - super_tool
+	Lobby: Corner Ammo Chest           	(SeedHS02) - locker_key
+	Lobby: Closet Chest                	(SeedHS03) - mag
+	Basement, Storage: North Chest     	(SeedHS04) - medicine3
+	Basement, Storage: South Chest     	(SeedHS05) - m10
+	Basement, Storage: Shelf Sparkle   	(SeedHS06) - club4
+	Basement, Save Office: Chest       	(SeedHS07) - rehearse_key
+	Basement, Save Office: Drawer      	(SeedHS08) - offense3
+	Basement, Morgue: Chest            	(SeedHS09) - cure_d
+	Basement, Autopsy: Chest 1         	(SeedHS10) - cr_vest2
+	Basement, Autopsy: Chest 2         	(SeedHS11) - bullets30
+	Basement, Crematory: Chest         	(SeedHS12) - m11
+	Basement, Crematory: Sparkle       	(SeedHS13) - usp_tu
+	Basement, Crematory: Corpse        	(SeedHS14) - tool
+	Basement, Back Hall: 50/50 Chest   	(SeedHS15) - m79_3
+	Basement, Collapsed Stairs: Sparkle	(SeedHS16) - medicine3
+	Basement, Clean Room: Right Chest  	(SeedHS17) - tool
+	Basement, Clean Room: Left Chest   	(SeedHS18) - medicine4
+	Basement, Clean Room: Sparkle      	(SeedHS19) - bhawk_tcard
+	Emergency Room: Chest              	(SeedHS20) - medicine3
+	Flashback Room: Chest              	(SeedHS21) - junk
+	Flashback Room: Nurse              	(SeedHS22) - offense3
+	F1 Back Hall: Chest                	(SeedHS23) - club5
+	Nitrogen Storage: Chest            	(SeedHS24) - m16a1
+	Nitrogen Storage: King Bacterium   	(SeedHS25) - club3
+	F13, Research lab: Chest           	(SeedHS26) - junk
+	F13, Research Lab: Counter         	(SeedHS27) - cm_protector
+	F13, Research Lab: Shelf           	(SeedHS28) - m203_6
+	F13, Kennel: Chest                 	(SeedHS29) - bar_tcard
+	F13, Sperm Bank: South Chest       	(SeedHS30) - tool
+	F13, Sperm Bank: North Chest       	(SeedHS31) - rocket9
+	F13, Sperm Bank: Sparkle 1         	(SeedHS32) - p220_2
+	F13, Sperm Bank: Sparkle 2         	(SeedHS33) - medicine1
+	Roof: Spider Woman                 	(SeedHS34) - cm_jacket
+
+Central Park
+	Entrance Trunk                  	(SeedCP01) - super_junk
+	Entrance Chest                  	(SeedCP02) - m8000
+	Gate: Left Chest                	(SeedCP03) - super_tool
+	Gate: Right Chest               	(SeedCP04) - club2
+	Courtyard Chest                 	(SeedCP05) - g23
+	Courtyard Tool                  	(SeedCP06) - trading_card
+	Office: Drawer                  	(SeedCP07) - m870_2
+	Office: Cabinet                 	(SeedCP08) - pump_key
+	Office: Locked Cabinet          	(SeedCP09) - medicine1
+	Snake Exhibit: Right Front Chest	(SeedCP10) - n_vest
+	Snake Exhibit: Left Chest       	(SeedCP11) - cure_p
+	Snake Exhibit: Right Back Chest 	(SeedCP12) - super_tool
+	Back Courtyard: Ammo Chest      	(SeedCP13) - kv_protector
+	Figure 8: Right Chest           	(SeedCP14) - gate_key
+	Figure 8: Left Chest            	(SeedCP15) - am44
+	Gazebo: Left Chest              	(SeedCP16) - b_protector
+	Gazebo: Right Chest             	(SeedCP17) - tool
+	Behind Gazebo Save: Chest       	(SeedCP18) - medicine2
+	Forest Maze SW: Chest           	(SeedCP19) - sp_armor1
+	Forest Maze Bridge: Chest       	(SeedCP20) - m84f
+	Forest Mase Dock: Chest         	(SeedCP21) - cure_p
+	Forest Maze E: Backup Tool Chest	(SeedCP22) - usp
+	Arch: Stat Chest                	(SeedCP23) - weapon_memo
+	Arch: Yolo Tool                 	(SeedCP24) - m203_2
+
+Soho
+	Apartment: Ammo Chest         	(SeedSH01) - at4_1
+	Outside Apartment: Trash Card 	(SeedSH02) - bullet_cap3
+	Gun Shop: North West Chest    	(SeedSH03) - m712
+	Gun Shop: North East Chest    	(SeedSH04) - cure_c
+	Gun Shop: Behind Counter Chest	(SeedSH05) - rocket9
+	Gun Shop: South East Chest    	(SeedSH06) - revive
+	Gun Shop: Green Box           	(SeedSH07) - kasul_tcard
+	Gun Shop: Red Box             	(SeedSH08) - bullets30
+	Gun Shop: Shotgun Rack        	(SeedSH09) - mg42_tcard
+	Gun Shop: Rifle Rack          	(SeedSH10) - tool
+	Pharmacy: Back Chest          	(SeedSH11) - hamaya
+	Pharmacy: Far Right Chest     	(SeedSH12) - revive
+	Pharmacy Backroom: Left Chest 	(SeedSH13) - type64
+	Pharmacy Backroom: Right Chest	(SeedSH14) - super_tool
+	Pharmacy: Left Shelf          	(SeedSH15) - revive
+	Pharmacy Back Shelf           	(SeedSH16) - medicine2
+	Pharmacy: Behind Counter      	(SeedSH17) - pe3
+	Pharmacy: Right Shelf         	(SeedSH18) - pe1
+
+Museum
+	F1, Klamp Pursuit, Jurasic Park: Chest      	(SeedMU01) - fuse_2
+	F1, Klamp Pursuit, Dino Skull: Chest        	(SeedMU02) - super_tool_kit
+	F1, Klamp Pursuit, Troodon Hall: Right Chest	(SeedMU03) - m1911a2
+	F1, Klamp Pursuit, Troodon Hall: Left Chest 	(SeedMU04) - range3
+	F1, Storage Hall: Chest                     	(SeedMU05) - sp_protector
+	F1, Storage Room: Sout East Chest           	(SeedMU06) - medicine3
+	F1, Storage Room: South Chest               	(SeedMU07) - narita
+	F1, Storage Room: North Chest               	(SeedMU08) - medicine2
+	F1, Storage Room: Hidden Right Chest        	(SeedMU09) - medicine3
+	F1, Storage Room: Hidden Left Chest         	(SeedMU10) - mp5a5
+	F1, Tribal Staircase: Chest                 	(SeedMU11) - sp1c
+	F1, Stone Head Room: Chest                  	(SeedMU12) - ppsh41
+	F1, Fire Escape: Chest                      	(SeedMU13) - m96r
+	F2, Gemstone Staircase: Right Chest         	(SeedMU14) - mark23
+	F2, Gemstone Staircase: Left Chest          	(SeedMU15) - klamp_key
+	F3, Fire Escape: Chest                      	(SeedMU16) - m203_3
+	F2, Festive Room: Chest                     	(SeedMU17) - rocket9
+	F3, Pterodactyl Ambush: Chest               	(SeedMU18) - super_tool
+	F3, Stegosaurus Room: Chest                 	(SeedMU19) - dress
+	F2, Museum Tent: Chest 1                    	(SeedMU20) - xm177e2
+	F2, Museum Tent: Chest 2                    	(SeedMU21) - full_uz
+	F2, Security Office: Chest                  	(SeedMU22) - medicine3
+	F4, Security Storage: SE Chest              	(SeedMU23) - pe2
+	F4, Security Storage: SW Chest              	(SeedMU24) - full_recovery
+	F4, Security Storage: NW Chest              	(SeedMU25) - junk
+	F4, Security Storage: Center Chest          	(SeedMU26) - m203
+	F2, Klamp's Office: Maeda                   	(SeedMU27) - medicine2
+	F2, Klamp's Office: Klamp                   	(SeedMU28) - autopsy_key
+	F4, Forgotten Landing: Chest                	(SeedMU29) - b_suit2
+	F1, T-Rex Drop                              	(SeedMU30) - mod_permit
+	F3, Broken Display: Right Chest             	(SeedMU31) - rocket9
+	F3, Triceratops Drop                        	(SeedMU32) - m16a2
+	F1, T-Rex: Left Chest                       	(SeedMU33) - sv_protector
+	F1, T-Rex: Right Chest                      	(SeedMU34) - medicine4
+	F3, Broken Display: Left Chest              	(SeedMU35) - cure_m
+	F4, Final Approach: Right Chest             	(SeedMU36) - p220
+	F4, Final Approach: Left Chest              	(SeedMU37) - g19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Key Item Only Spoilers
+	autopsy_key   	is located at	(SeedMU28) F2, Klamp's Office: Klamp
+	rehearse_key  	is located at	(SeedHS07) Basement, Save Office: Chest
+	blue_card_key 	is located at	(SeedPD06) D3 Entrance: Hamaya
+	hamaya        	is located at	(SeedSH11) Pharmacy: Back Chest
+	green_card_key	is located at	(SeedCT18) Sewer Maze, E/4: Chest
+	fuse_3        	is located at	(SeedPD09) D3 Save Room: Warner's Ammo
+	storage_key   	is located at	(SeedPD01) Baker's Office: Baker Permit 1
+	klamp_key     	is located at	(SeedMU15) F2, Gemstone Staircase: Left Chest
+	gate_key      	is located at	(SeedCP14) Figure 8: Right Chest
+	weapon_memo   	is located at	(SeedCP23) Arch: Stat Chest
+	elevator_key  	is located at	(SeedCH08) B1: Clown Locker
+	narita        	is located at	(SeedMU07) F1, Storage Room: South Chest
+	warehouse_key 	is located at	(SeedPD26) Big Bad Wolf: Chest
+	super_junk    	is located at	(SeedCP01) Entrance Trunk
+	fuse_1        	is located at	(SeedPD08) D3 Main Hall: Nix's Ammo
+	locker_key    	is located at	(SeedHS02) Lobby: Corner Ammo Chest
+	theater_key   	is located at	(SeedWH06) Save Room: Upper North Chest
+	mayoke        	is located at	(SeedCT05) Antique Shop: Chest
+	super_tool_kit	is located at	(SeedMU02) F1, Klamp Pursuit, Dino Skull: Chest
+	pump_key      	is located at	(SeedCP08) Office: Cabinet
+	fuse_2        	is located at	(SeedMU01) F1, Klamp Pursuit, Jurasic Park: Chest
+	tool_kit      	is located at	(SeedCT08) Sewer Entrance: Maeda
+	zoo_key       	is located at	(SeedCH12) B1: Prop Room: Rat Cabinet
