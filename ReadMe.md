@@ -2,6 +2,8 @@
 (created by chrisaegrimm, Kaktus021 & skooter0070)
 
 
+
+
 [ How To Generate Seeds ]
     
     - Currently only Bizhawk 2.9 is recommended for seed generation. Static seeds are not currently
