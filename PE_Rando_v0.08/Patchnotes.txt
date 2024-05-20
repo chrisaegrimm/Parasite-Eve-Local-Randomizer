@@ -1,0 +1,140 @@
+   [ v0.08 ]
+
+-  ACTUALLY fixed CP Ben Reuniting Event when unskipped, added multiple exceptions.
+-  Adjusted Chinatown and Subway entrances to apply story flags at the entrance properly.
+-  Fixed Precinct Press Conference Event Skip to be less awkward.
+
+
+   [ v0.07 ]
+
+-  Added to GitHub.
+-  Fixed saving to crrntprog.txt using a memory card in Slot 2.
+-  Modified Quicksave QoL to account for both slots appropriately.
+-  Adjusted World Map Story Flag set to allow for an exception coming from Disc 2.
+
+
+   [ v0.06 ]
+
+-  Added skooter0700 to script credits.
+-  Added seed to the title screen for fast verification.
+-  Increased range of the Game Clock to apply current PE abilities.
+-  Corrected the byte used to determine Aya's Level and thus the seed's PE abilities.
+-  Removed save name enforce for now, as it's not yet implemented.
+-  Fixed lag during the opening FMV by not setting item stats every frame of it.
+-  Fixed CP Ben Reuniting Event when it's not skipped to accomadate appropriately.
+-  Hospital's story variable now accounts for if your inventory is full and Maeda still
+   has your item.
+-  Slowed down the pinging for Blue Cardkey to the speed of most other key checks.
+-  Fixed reverse Chinatown route to allow Maeda's event to trigger backwards.
+-  Fixed CT14 (Off1/Rng1) to set on two different addresses for consistency.
+-  Removed Schmoovement exemption for Pterodactyl Introduction room.
+-  Rewrote story variables in Museum to accomadate a new prompt.
+-  Added a prompt warning player of missable Klamp checks if they fight bosses first.
+-  Added an Event Skip on the Namitz for the missile sequence.
+-  Removed Event Skip from Eve 3/4 to restore BGM and preserve Day 6 health restore.
+   (temporary)
+-  Increased Game Throttle during Eve 3/4 dialogues to help with Event Skip removal.
+-  Buffed Super Tool Kit to include unlimited Tools as well, functioning like having both
+   kits.
+-  Some file format cleanup.
+-  Created Seed Generator script.
+-  Created Config.
+-  PE Shuffle script added.
+-  Implemented a BGM slowdown instead of a disable when inside the Weapons Department.
+   ... Look, no music where you spend most of your menuing is infuriating.
+
+
+   [ v0.05 ]
+
+-  Added seed info to name entry and menu/save menus.
+-  Added detection of loading a save file from vanilla or a diferent seed.
+-  Increased starting Inventory slots (14 -> 16) to account for keys/crates/etc.
+-  Lobby (HS): Added another potential chest address to the closet chest.
+-  Autopsy (HS): Added UChest5 to SeedHS10.
+-  Crematory (HS): Added UChest3 to SeedHS12.
+-  Kennel (HS): Added UChest3 to SeedHS29.
+-  Storage Hall (MU): Fixed Location pointer.
+
+
+   [ v0.04 ]
+
+-  Reorganized Transition Handler script to match rest of script.
+-  Set Game State properly after starting room warp, preventing skipped flags.
+-  Readded "fixed" chest pointers from v0.03, as apparently the game shuffles chests
+   after battles and events from a limited pool.
+-  Unlocked shuffled weapon types.
+-  Reverted Fuse 3 from being a rifle when weapon type shuffle is on. Oops.
+-  Added failsafe script to handle GameState after a death and upon loading a save file.
+-  Baker's Office (PD): Fixed Press Conference Event Skip that resulted from fixing Mod
+   Permit 1 in v0.03.
+-  PD now requires Super Junk to progress to 'NYPD Battle'.
+-  Player can now complete PD's story and warp back to 'NYPD Battle'.
+-  Weapons Dept. (PD): Now added perma-unlock for D4's variant of Wayne.
+-  Accessing Kerberos during the 'NYPD Battle' revisit will send the player to the World
+   Map instead, as Kerberos can apparently be fought repeatedly otherwise.
+-  Main Entrance (CP): Added an exception for the post-Eve cutscene with Ben.
+-  Snake Exhibit (CP): Fixed chests loading from the wrong room address.
+-  Lobby Entrance (HS): Fixed HS Story Flag to account for collecting Maeda's charm and
+   then leaving immediately, allowing item duplication.
+-  Crematory (HS): Set HSBasementLock to allow all checks inside to function.
+-  Autopsy (HS): Powered on variant should now set back HSBasementLock to allow escape.
+   Crematory and Autopsy fixes this patch are temporary fixes until check detection is
+   added in the future.
+-  Rooftop (HS): Fixed seed pointer for Spiderwoman's drop.
+-  CT Sewers' items were redone as they were entered with mixed up coordinates.
+-  CT Sewers map pop up is still temporary, but should now stay up and prevent blinking.
+-  Moai Exhibit (MU): Fixed to edit the chest post-event.
+-  Security Office (MU): Fixed the button to work instantly. This allows the player to
+   choose to save-warp, since before it didn't deactivate security until the player
+   watched the T-Rex cutscene. This is also removed as a consequence.
+-  Triceratops Exhibit (MU): Added separate boss drop. Originally this was accidentally
+   set to the same drop as T-Rex.
+-  Ending sequence was edited to progress to the credits sooner.
+
+
+   [ v0.03 ]
+
+-  Changed "L1+R1+O" to "L1+R1+Circle" to increase readability on pixel fonts.
+-  Moved gui.defaultPixelFont() toggle to the title screen to avoid save-warp exception.
+-  Increase starting Item Capacity stat from 3 to 5, adding two more starting slots.
+-  Allow Narita to transfer over to Wayne's storage like the other charms.
+-  Prop Room (CH): Kept UChest6 for pre-battle checks, but apparently UChest3 needs set
+   to the same item in case it's checked post-battle. Why? I dunno, I hate it here.
+-  Baker's Office (PD): Manipulated Event Skip to fix Mod Permit 1.
+-  Weapons Dept (PD): Removed Event Skip during Torres's death to prevent menu issues.
+-  Fixed Precinct's final story flag, allowing post-battle to function properly.
+-  Lobby (HS): Fixed a chest drop pointer. (UChest5 -> UChest7)
+-  Elevator Hall (HS): Shortened Green Cardkey text to fit on-screen.
+-  Autopsy (HS): Created auto-detect of the expected power state to restore from
+   Crematory.
+-  Crematory (HS): Forced the outage-variant, as multiple items in this room break
+   otherwise.
+-  Trading Card Room (HS): Fixed a chest drop pointer. (UChest3 -> UChest4)
+-  Flashback Room (HS): Fixed Green Cardkey, adjusted HS23-HS34 accordingly.
+-  The Descent (WH): Granted the fastest Schmoovement for the climb.
+-  F13 Elevator Hall (HS): Allowed story-conditional save-warp.
+-  Intersection (SW): Fixed a drop item pointer for Centipede. (DropItem1 -> DropItem3)
+-  Troodon Hall (MU): Fixed a chest drop pointer. (MChest3 -> MChest2)
+-  Klamp's Office (MU): Compensated for full inventory to set a unique address based on
+   the current BGM tempo. This catches Klamp's death specifically for his drop.
+-  T-Rex Exhibit (MU): Corrected room address for proper item drop.
+-  Slimy Staircase (MU): Fixed story variable triggers to fix charm lock.
+-  Front Entrance (MU): Made an exception for post-Eve story flag to allow endgame story.
+
+
+   [ v0.02 ]
+
+-  Renamed per-script.lua to per-SCRIPT.lua to allow the main script to stand out more.
+-  Added a temporary PE level shuffle implementation, will need changed in the future
+   for seed generation.
+-  Added an EX variable: Hitting New Game on the title screen will check if EX is on in
+   the seed, then apply accordingly.
+-  Added an option on pause to change gui.defaultPixelFont() for readability.
+-  A temporary minimap was placed in Chinatown Sewers to negate needing a guide.
+-  Specified to press Start ON THE CONTROLLER for easy understanding.
+
+
+   [ v0.01 ]
+
+-  There were a TON of revisions before this as I am learning lua from scratch, but this
+   is where basic transitions and replacements were implememnted.
